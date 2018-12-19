@@ -1,1 +1,0 @@
-@start "" "D:\project\tool\Airoha.LightDebugPrintSniffer_20171020_1.0.37.0_Verifying\Airoha.LightDebugPrintSniffer_20171020_1.0.37.0_Verifying\Airoha.LightDebugPrintSniffer_20171020_1.0.37.0_Verifying\Airoha.LightDebugPrintSniffer.exe"

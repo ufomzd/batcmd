@@ -1,1 +1,0 @@
-@findstr /N /O /S %1   %2
