@@ -1,0 +1,1 @@
+@start "" "D:\project\tool\sscom5.13.1.exe"

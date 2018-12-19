@@ -1,0 +1,1 @@
+@start "" "D:\project\1_em025\5_ref\2018Äê11ÔÂ16ÈÕfrom ligang\QUEUE14575351\AB152xP_ConfigTool(Official)_BT Audio\Airoha.AB152x_verC_ConfigTool_20180712_29.4.41.20477_Verifying\Airoha.AB152x_verC_ConfigTool.exe"

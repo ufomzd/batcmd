@@ -1,0 +1,2 @@
+@call  macro
+@call hi

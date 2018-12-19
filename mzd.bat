@@ -1,0 +1,2 @@
+@c:
+@cd c:\mzdcmd
