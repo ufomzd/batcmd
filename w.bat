@@ -1,1 +1,1 @@
-@call work
+@call workbench
