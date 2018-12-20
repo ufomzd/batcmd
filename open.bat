@@ -8,6 +8,7 @@ if "%a%"== "?" (
 	echo s3		tws s3 project folder
 	echo em031	em031 project folder
 	echo git		git folder
+	echo backup	backup folder
 	echo ...
 ) else if "%a%" == "qt" (
 	call ex D:\qt\out
@@ -21,6 +22,8 @@ if "%a%"== "?" (
 	call ex D:\project\3_EM031 
 ) else if "%a%" == "git" (
 	call ex D:\git
+) else if "%a%" == "backup" (
+	call ex D:\backup
 ) else (
 	echo *£þ¦á£þ
 )
