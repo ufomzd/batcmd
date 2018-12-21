@@ -9,6 +9,8 @@ if "%a%"== "?" (
 	echo em031	em031 project folder
 	echo git		git folder
 	echo backup	backup folder
+	echo download	download folder
+	echo software	software folder
 	echo ...
 ) else if "%a%" == "qt" (
 	call ex D:\qt\out
@@ -24,6 +26,10 @@ if "%a%"== "?" (
 	call ex D:\git
 ) else if "%a%" == "backup" (
 	call ex D:\backup
+) else if "%a%" == "download" (
+	call ex C:\Users\1more\Downloads
+) else if "%a%" == "software" (
+	call ex D:\software
 ) else (
 	echo *£þ¦á£þ
 )
